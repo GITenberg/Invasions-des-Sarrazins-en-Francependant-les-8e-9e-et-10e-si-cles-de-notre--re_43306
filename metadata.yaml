@@ -1,0 +1,31 @@
+_repo: Invasions-des-Sarrazins-en-Francependant-les-8e-9e-et-10e-si-cles-de-notre--re_43306
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43306-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reinaud, Joseph Toussaint
+    birthdate: 1795
+    deathdate: 1867
+    gutenberg_agent_id: '42124'
+    url: http://www.gutenberg.org/2009/agents/42124
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2013-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43306'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islamic Empire -- History'
+- !lcc 'DS'
+- !lcsh 'Muslims -- Europe -- History'
+- !lcsh 'Civilization, Medieval'
+- !lcsh 'Europe -- History -- 476-1492'
+title: "Invasions des Sarrazins en France\r\net de France en Savoie, en Piémont et\
+  \ dans la Suisse, pendant les 8e, 9e et 10e siècles de notre ère"
+url: http://www.gutenberg.org/ebooks/43306
